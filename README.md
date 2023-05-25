@@ -25,9 +25,10 @@ melalui browser
 
 Dan ini merupakan hasil dari Test saya. Menggunakan HTML, BOOSTRAP dan CSS
 
-<img width="230" alt="by galeri" src="https://github.com/queenalpha/Test-Front-end---Internship-FinPlan/assets/86510308/6edce135-5c4e-4a6b-a507-6378e4f893e0">
-<img width="229" alt="by kamera" src="https://github.com/queenalpha/Test-Front-end---Internship-FinPlan/assets/86510308/a31b503c-bb0e-4030-988b-f1150b0e573b">
-<img width="233" alt="Ganti profile" src="https://github.com/queenalpha/Test-Front-end---Internship-FinPlan/assets/86510308/8cc572cd-1938-4783-955a-f78314b6b3a0">
-<img width="232" alt="preview img" src="https://github.com/queenalpha/Test-Front-end---Internship-FinPlan/assets/86510308/e57ea4dd-5038-4791-bf2d-79b859e11005">
-<img width="230" alt="profile changed" src="https://github.com/queenalpha/Test-Front-end---Internship-FinPlan/assets/86510308/38be504c-3cf6-45ea-8d6f-346fe2a90aa4">
-<img width="231" alt="Profile" src="https://github.com/queenalpha/Test-Front-end---Internship-FinPlan/assets/86510308/eb0ec9ad-cc0b-4215-bd6a-ba51a164b5ca">
+<img width="230" alt="by galeri" src="https://github.com/queenalpha/Test-Finplan/assets/86510308/c4c30abc-47e7-42aa-a03b-6e4ab22e84c8">
+<img width="229" alt="by kamera" src="https://github.com/queenalpha/Test-Finplan/assets/86510308/810afe98-b189-41b0-b147-569480be20a8">
+<img width="233" alt="Ganti profile" src="https://github.com/queenalpha/Test-Finplan/assets/86510308/667c58b8-c137-496a-9ff9-cda6421734f0">
+<img width="232" alt="preview img" src="https://github.com/queenalpha/Test-Finplan/assets/86510308/d60d30e9-5e0c-469e-8df7-3f51a89f7df4">
+<img width="230" alt="profile changed" src="https://github.com/queenalpha/Test-Finplan/assets/86510308/03a26275-5ff0-4027-8f46-ce8a3cc2ce39">
+<img width="231" alt="Profile" src="https://github.com/queenalpha/Test-Finplan/assets/86510308/b8be18dd-d457-4c6f-8e98-e92a4ce8b60c">
+
