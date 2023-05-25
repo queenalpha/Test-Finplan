@@ -1,0 +1,7 @@
+Query search
+- How to crop image in css
+- what diffent between object fit and object position
+- object fit css
+- spacing css with boostrap
+- font nunito
+- fontawasome
